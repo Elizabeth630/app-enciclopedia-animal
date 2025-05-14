@@ -32,11 +32,6 @@ Muestra el detalle del animal seleccionado: imagen, descripción y botón para r
 
 ## 🎥 Video del funcionamiento de la APP
 
-👉 Ver video de cómo funciona: (https://www.canva.com/design/DAGnY115Jeg/-FKxAsOune0wT4JZM9PItg/edit?utm_content=DAGnY115Jeg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+👉 [Ver video de cómo funciona](https://www.canva.com/design/DAGnY115Jeg/-FKxAsOune0wT4JZM9PItg/edit?utm_content=DAGnY115Jeg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-_(Reemplaza este link con tu enlace a YouTube, Google Drive o cualquier plataforma de video)_
-
----
-
-## 🗂️ Estructura del proyecto
 
